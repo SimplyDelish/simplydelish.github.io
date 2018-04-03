@@ -289,7 +289,7 @@ The development process for BowFolios conformed to [Issue Driven Project Managem
 
 The following sections document the development history of BowFolios.
 
-## Milestone 1: Mockup development
+## Milestone 1: 
 
 <!--This milestone started on December 6, 2016 and ended on January 31, 2017.
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
