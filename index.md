@@ -2,8 +2,7 @@
 # Table of contents
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
-<!---
-* [Installation](#installation)
+<!---* [Installation](#installation)-->
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
   * [Import conventions](#import-conventions)
