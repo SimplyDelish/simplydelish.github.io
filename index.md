@@ -1,6 +1,7 @@
+
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About Simply Delish](#about-Simply-Delish)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -25,9 +26,10 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [JSDocs](/jsdocs)
 
-# About BowFolios 
+# About Simply Delish 
+ 
+Simply Delish is an application that resolves the problem of there being many food choices on campus. This app allows you to know what specific menu items will be available today at campus center locations, and as well as tell what food is available at the moment. It can also tailor to the style of food you love and let you know when it is available.
 
-BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
 ![](images/landing.png)
 
