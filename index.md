@@ -2,6 +2,7 @@
 # Table of contents
 
 * [About Simply Delish](#about-Simply-Delish)
+* [Goals](#goals)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -29,6 +30,7 @@
  
 Simply Delish is an application that resolves the problem of there being many food choices on campus. This app allows you to know what specific menu items will be available today at campus center locations, and as well as tell what food is available at the moment. It can also tailor to the style of food you love and let you know when it is available.
 
+# Goals
 <!--
 ![](images/landing.png)
 Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
@@ -40,7 +42,7 @@ After creating a profile, you will be listed on the public directory page:
 BowFolios also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
 ![](images/filter.png)
 -->
-
+<!--
 # Installation
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -357,6 +359,6 @@ Simply Delish is intended as a model of how an ICS 314 project could be organize
 * [BowFolios: Unit Testing](https://www.youtube.com/watch?v=EexZfw1yMJs)
 * [BowFolios: Design Patterns](https://www.youtube.com/watch?v=yP-t44HBCPQ). Maybe watch [this](https://www.youtube.com/watch?v=Z2yjimK_MJU) first.
 -->
-
+-->
 
 
