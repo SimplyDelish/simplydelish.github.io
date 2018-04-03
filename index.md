@@ -30,7 +30,7 @@
  
 Simply Delish is an application that resolves the problem of there being many food choices on campus. This app allows you to know what specific menu items will be available today at campus center locations, and as well as tell what food is available at the moment. It can also tailor to the style of food you love and let you know when it is available.
 
-<!--detail>
+<!--
 ![](images/landing.png)
 Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 ![](images/bowfolios-cas.png)
@@ -40,7 +40,7 @@ After creating a profile, you will be listed on the public directory page:
 ![](images/directory.png)
 BowFolios also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
 ![](images/filter.png)
-</--detail>
+-->
 
 # Installation
 
