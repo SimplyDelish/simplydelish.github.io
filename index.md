@@ -2,7 +2,6 @@
 # Table of contents
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
-{# bb #}
 <!---* [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
