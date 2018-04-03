@@ -1,7 +1,7 @@
 
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About Simply Delish](#about-Simply-Delish)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
