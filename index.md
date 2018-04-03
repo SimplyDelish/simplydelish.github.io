@@ -1,9 +1,8 @@
 
 # Table of contents
 
-* [About Simply Delish](#about-Simply-Delish)
-* [Goals](#goals)
-* [Installation](#installation)
+* [About Simply Delish & Goals](#about-Simply-Delish)
+<!--* [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
   * [Import conventions](#import-conventions)
@@ -25,13 +24,12 @@
   * [Milestone 4: ](#milestone-4-authentication)
   * [Milestone 5: ](#milestone-5-administration)
 * [Walkthrough videos](#walkthrough-videos)
-
+-->
 # About Simply Delish 
  
 Simply Delish is an application that resolves the problem of there being many food choices on campus. This app allows you to know what specific menu items will be available today at campus center locations, and as well as tell what food is available at the moment. It can also tailor to the style of food you love and let you know when it is available.
 
-# Goals
-
+Our goal at Simply Delish is to create a tool for Manoa students that will ease thier journey into finding their next delicious meal on campus.
 <!--
 ![](images/landing.png)
 Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
