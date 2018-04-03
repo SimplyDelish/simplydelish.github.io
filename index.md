@@ -1,7 +1,7 @@
 
 # Table of contents
 
-* [About Simply Delish](#about-Simply-Delish)
+* [About Simply Delish](#about-simply-delish)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
