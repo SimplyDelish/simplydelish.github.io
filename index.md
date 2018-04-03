@@ -2,7 +2,8 @@
 # Table of contents
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
-<!--* [Installation](#installation)
+<!---
+* [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
   * [Import conventions](#import-conventions)
@@ -24,13 +25,13 @@
   * [Milestone 4: ](#milestone-4-authentication)
   * [Milestone 5: ](#milestone-5-administration)
 * [Walkthrough videos](#walkthrough-videos)
--->
+--->
 # About Simply Delish 
  
 Simply Delish is an application that resolves the problem of there being many food choices on campus. This app allows you to know what specific menu items will be available today at campus center locations, and as well as tell what food is available at the moment. It can also tailor to the style of food you love and let you know when it is available.
 
 Our goal at Simply Delish is to create a tool for Manoa students that will ease thier journey into finding their next delicious meal on campus.
-<!--
+<!---
 ![](images/landing.png)
 Anyone with a UH account can login to BowFolios by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 ![](images/bowfolios-cas.png)
@@ -40,8 +41,6 @@ After creating a profile, you will be listed on the public directory page:
 ![](images/directory.png)
 BowFolios also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
 ![](images/filter.png)
--->
-<!--
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
 Second, [download a copy of Simply Delish](https://github.com/simplydelish/simplydelish/archive/master.zip), or clone it using git.
@@ -124,17 +123,14 @@ This system adopts the following naming conventions:
   * Templates representing pages are capitalized, with words separated by underscores. Example: Directory_Page. The files for this template are lower case, with hyphens rather than underscore. Example: directory-page.html, directory-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
 ## Data model
-<!--
 The Simply Delish data model is implemented by two Javascript classes: [ProfileCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.js) and [InterestCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Profiles and Interests)that provides access to that collection. 
 Any part of the system that manipulates the BowFolios data model imports the Profiles or Interests variable, and invokes methods of that class to get or set data.
 There are many common operations on MongoDB collections. To simplify the implementation, the ProfileCollection and InterestCollection classes inherit from the [BaseCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseCollection.js) class.
 The [BaseUtilities](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes. 
 Both ProfileCollection and InterestCollection have Mocha unit tests in [ProfileCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.test.js) and [InterestCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.test.js). See the section below on testing for more details.
 ## CSS
-<!--
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory). 
-<!--
 Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user. 
 ## Routing
 For display and navigation among its four pages, the application uses [Flow Router](https://github.com/kadirahq/flow-router).
@@ -207,7 +203,7 @@ BowFolios supports documentation generation with [JSDoc](http://usejsdoc.org/). 
 The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 The following sections document the development history of BowFolios.
 ## Milestone 1: 
-<!--This milestone started on December 6, 2016 and ended on January 31, 2017.
+This milestone started on December 6, 2016 and ended on January 31, 2017.
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/landing.png"/>
@@ -221,7 +217,6 @@ Milestone 1 consisted of five issues, and progress was managed via the [BowFolio
 Each issue was implemented in its own branch, and merged into master when completed:
 ![](images/m1-branch-graph.png)
 ## Milestone 2: 
-<!--
 This milestone started on Jan 31, 2017 and ended on Feb 2, 2017.
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.  We implemented the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. The ProfileCollection and InterestCollection classes inherit from BaseCollection and provide the persistent data structures useful for BowFolios. 
 Also in this milestone, we implemented a set of mocha tests for the data model classes. These tests make sure we can create, manipulate, and delete the data model documents successfully.  These tests are documented above.
@@ -232,7 +227,6 @@ Milestone 2 consisted of two issues, and progress was managed via the [BowFolio 
 Each issue was implemented in its own branch, and merged into master when completed:
 ![](images/m2-branch-graph.png)
 ## Milestone 3: 
-<!--
 This milestone started on Feb 2, 2017 and ended on Feb 10, 2017.
 The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
 Milestone 3 was implemented as [BowFolio GitHub Milestone M3](https://github.com/bowfolios/bowfolios/milestone/3)::
@@ -242,7 +236,6 @@ Milestone 3 consisted of four issues, and progress was managed via the [BowFolio
 Each issue was implemented in its own branch, and merged into master when completed:
 ![](images/m3-branch-graph.png)
 ## Milestone 4: 
-<!--
 This milestone started on Feb 10, 2017 and ended on Feb 14, 2017.
 The goal of Milestone 4 was to set up authentication using the University of Hawaii test CAS system. We used the templates from [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/) to guide the implementation. Although the example restricts logins to those in a list in the configuration file, BowFolios allows anyone with a UH account to access the system. 
 Authentication also implies that users cannot access the profile or filter page associated with another user.
@@ -253,13 +246,11 @@ Milestone 4 consisted of two issues, and progress was managed via the [BowFolio 
 Each issue was implemented in its own branch, and merged into master when completed:
 ![](images/m4-branch-graph.png)
 ## Milestone 5: 
-<!--
 This milestone started on Feb 14, 2017 and is ongoing.
 [BowFolio GitHub Milestone 5](https://github.com/bowfolios/bowfolios/milestone/5) involves the creation of an administrator role in the system. The administrator can manage the set of defined interests. (Currently, interests are defined in the database file loaded at system startup time.)
 This milestone will also include the implementation of Meteor methods and removal of the insecure package. 
 We will manage progress on this milestone using [BowFolio GitHub Project M5](https://github.com/bowfolios/bowfolios/projects/5).
 # Walkthrough videos
-<!--
 Simply Delish is intended as a model of how an ICS 314 project could be organized and executed. Here are some videos to walk through various aspects of the system and development process:
 * [BowFolios: User Interface](https://www.youtube.com/watch?v=aZvxRQfQdkE)
 * [BowFolios: Development Process](https://www.youtube.com/watch?v=8pTgFtbcjTc)
