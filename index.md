@@ -1,7 +1,6 @@
-
 # Table of contents
 
-* [About Simply Delish](#about-Simply-Delish)
+* [About Bowfolios](#about-bowfolios)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -26,7 +25,7 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [JSDocs](/jsdocs)
 
-# About Simply Delish 
+# About BowFolios 
 
 BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
