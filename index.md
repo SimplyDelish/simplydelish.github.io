@@ -2,6 +2,7 @@
 # Table of contents
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
+* [Development History](#Development-History)
 * [Meet the Team](#Meet-the-Team)
 
 # About Simply Delish 
