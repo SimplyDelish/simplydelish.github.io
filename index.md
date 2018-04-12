@@ -26,6 +26,11 @@ The goal of this milestone was to determine the general direction of the project
 #### Landing Page
 ![](images/Landing_Mockup.png)
 
+#### User Home Page
+![](images/user1.png)
+
+![](images/user2.png)
+
 #### User Profile
 ![](images/User_Profile_Mockup.png)
 
