@@ -1,6 +1,6 @@
 # Links
 
-Project Page: http://simplydelish.meteorapp.com/#/
+Project Page: http://simplydelish.meteorapp.com/#/ <br>
 Project Board: https://github.com/simplydelish/simplydelish/projects/1
 
 # Table of contents
