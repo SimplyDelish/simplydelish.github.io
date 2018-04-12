@@ -35,7 +35,7 @@ The goal of this milestone was to determine the general direction of the project
 # Meet the Team
 **Josefina Fortin**
 
-Skills / Background: *HTML & CSS, Design (Logos)*<br>
+Skills / Background: *HTML & CSS, Java, Web Design*<br>
 Interests: *Video Games, Web Design, Photography*<br>
 Portfolio: *https://josefinafortin.github.io/*
 
