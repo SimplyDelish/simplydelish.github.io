@@ -23,6 +23,8 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 
 ![description](images/homedes.png)
 
+![vendor](images/vendors.png)
+
 # Development History
 
 Progress on the Simply Delish is divided into four milestones. Each milestone is a progression in the development process.
