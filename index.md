@@ -7,7 +7,6 @@ Project Board: [Project Board](https://github.com/simplydelish/simplydelish/proj
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
 * [Development History](#Development-History)
-* [Latest Version] (#Latest-Version-of-Application)
 * [Meet the Team](#Meet-the-Team)
 
 # About Simply Delish 
@@ -18,7 +17,7 @@ Simply Delish is an application that resolves the problem of there being many fo
 
 Our goal at Simply Delish is to create a tool for Manoa students that will ease thier journey into finding their next delicious meal on campus.
 
-# Latest Version of Application
+# Latest Version
 
 ![Home](images/home.gif)
 
