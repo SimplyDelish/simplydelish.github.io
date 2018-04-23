@@ -19,14 +19,14 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 
 # Latest Version
 
-##Landing  Page
+## Landing  Page
 ![Home](images/home.gif)
 ![description](images/des.png)
 
-##Vendors 
+## Vendors 
 ![vendor](images/vendors.png)
 
-##User Home Page
+## User Home Page
 ![userhome](images/userhome.png)
 
 ![uhome](images/userhome2.png)
