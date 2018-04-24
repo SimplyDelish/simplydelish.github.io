@@ -1,8 +1,3 @@
-# Links
-
-Project Page: [Project Page](http://simplydelish.meteorapp.com/#/) <br>
-Project Board: [Project Board](https://github.com/simplydelish/simplydelish/projects/1)
-
 # Table of contents
 
 * [About Simply Delish & Goals](#about-Simply-Delish)
@@ -54,6 +49,11 @@ The goal of this milestone was to determine the general direction of the project
 
 #### Add Vendor
 ![](images/Add_Vendor_Mockup.png)
+
+# Links
+
+Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
+Project Board: [Project Board](https://github.com/simplydelish/simplydelish/projects/1)
 
 # Meet the Team
 **Josefina Fortin**
