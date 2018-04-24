@@ -51,6 +51,30 @@ The goal of this milestone was to determine the general direction of the project
 #### Add Vendor
 ![](images/Add_Vendor_Mockup.png)
 
+## Milestone 2: Functionality
+
+The last milestone was focused mainly on the aesthetics of the application. Milestone 2 focused on adding some functionality. Our focus was on converting the rest of our pages from HTML mockups to React, implementing a dynamic navigation bar, and creating and integrating backend MongoDB collections.
+
+### Milestone 2 Screenshots
+
+#### Landing Page
+![](images/landing.png)
+
+#### Top Picks
+![](images/top_picks2.png)
+
+#### Add Vendor
+![](images/add_vendor2.png)
+
+#### User Profile
+![](images/user_profile2.png)
+
+#### Vendors
+![](images/vendors2.png)
+
+#### Vendor Homepage
+![](images/vendor_homepage2.png)
+
 # Links
 
 Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
