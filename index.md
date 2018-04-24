@@ -78,7 +78,7 @@ The last milestone was focused mainly on the aesthetics of the application. Mile
 # Links
 
 Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
-Project Board M1: [Project Board M1](https://github.com/simplydelish/simplydelish/projects/1)
+Project Board M1: [Project Board M1](https://github.com/simplydelish/simplydelish/projects/1) <br>
 Project Board M2: [Project Board M2](https://github.com/simplydelish/simplydelish/projects/2)
 
 # Meet the Team
