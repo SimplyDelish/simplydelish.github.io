@@ -1,10 +1,10 @@
 # Table of contents
 
-* [About Simply Delish & Goals](#about-Simply-Delish)
-* [Development History](#Development-History)
-* [Meet the Team](#Meet-the-Team)
+* [About Simply Delish](#about-simply-delish)
+* [Latest Version](#latest-version)
+* [Development History](#development-history)
+* [Meet the Team](#meet-the-team)
 
-[about Simply Delish](#about-simply-delish)
 # About Simply Delish 
  
 ![Simply Delish Logo](images/About.png)
@@ -27,7 +27,6 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 
 ![uhome](images/userhome2.png)
 
-[Development History](#development-history)
 # Development History
 
 Progress on the Simply Delish is divided into four milestones. Each milestone is a progression in the development process.
@@ -57,7 +56,6 @@ The goal of this milestone was to determine the general direction of the project
 Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
 Project Board: [Project Board](https://github.com/simplydelish/simplydelish/projects/1)
 
-[Meet the Team](#meet-the-team)
 # Meet the Team
 **Josefina Fortin**
 
