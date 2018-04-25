@@ -2,6 +2,7 @@
 
 * [About Simply Delish](#about-simply-delish)
 * [Latest Version](#latest-version)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Meet the Team](#meet-the-team)
 
@@ -26,6 +27,85 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 ![userhome](images/userhome.png)
 
 ![uhome](images/userhome2.png)
+
+# Developer Guide
+
+This section will walk you through the steps to get the project running locally.
+
+## Installation
+
+[Install Meteor](https://www.meteor.com/install)
+
+Clone this GitHub repo to your local computer. *You may need to request access.*
+```bash
+$ git clone https://github.com/simplydelish/simplydelish
+```
+
+cd into the `app/` directory
+```bash
+$ cd simplydelish/app/
+```
+
+Install package dependencies
+```bash
+$ meteor npm install
+```
+
+Start the application
+```bash
+$ meteor npm run start
+```
+
+If all goes well, your command line output should look like this.
+
+```bash
+$ meteor npm run start
+
+> meteor-application-template-react@ start /Users/Jayson/git/github/simplydelish/app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+[[[[[ ~/git/github/simplydelish/app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+I20180425-00:19:45.350(-10)? Creating the default user(s)
+I20180425-00:19:45.531(-10)?   Creating user vendor@foo.com.
+I20180425-00:19:45.532(-10)?   Creating user admin@foo.com.
+I20180425-00:19:45.532(-10)?   Creating user john@foo.com.
+I20180425-00:19:45.532(-10)? Creating default data.
+I20180425-00:19:45.532(-10)?   Adding: Basket (john@foo.com)
+I20180425-00:19:45.532(-10)?   Adding: Bicycle (john@foo.com)
+I20180425-00:19:45.532(-10)?   Adding: Banana (admin@foo.com)
+I20180425-00:19:45.533(-10)?   Adding: Boogie Board (admin@foo.com)
+I20180425-00:19:45.533(-10)? Creating default vendors.
+I20180425-00:19:45.533(-10)?   Adding: Sistah to vendors collection
+I20180425-00:19:45.699(-10)?   Adding: Banan to vendors collection
+I20180425-00:19:45.699(-10)?   Adding: Le Crepe to vendors collection
+I20180425-00:19:45.700(-10)? Creating default foods.
+I20180425-00:19:45.700(-10)?   Adding: Super-Loco Loco-Moco to foods collection
+I20180425-00:19:45.700(-10)?   Adding: Banana Swirl to foods collection
+I20180425-00:19:45.700(-10)?   Adding: Strawberry & Chocolate Drizzle to foods collection
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+```
+
+**Warning Message:** You may get a warning like this.
+
+```bash
+W20180425-00:19:45.533(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20180425-00:19:45.534(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20180425-00:19:45.534(-10)? (STDERR) approximately three times slower than the native implementation.
+W20180425-00:19:45.534(-10)? (STDERR) In order to use the native implementation instead, run
+W20180425-00:19:45.534(-10)? (STDERR)
+W20180425-00:19:45.534(-10)? (STDERR)   meteor npm install --save bcrypt
+W20180425-00:19:45.535(-10)? (STDERR)
+W20180425-00:19:45.535(-10)? (STDERR) in the root directory of your application.
+```
+
+*Bcrypt* is not used in this application in order to maintain cross-platform compatibility. It is non-trivial to install *Bcrypt* on Windows and the impact of omitting it on small applications such as this is negligable. The warning can be safely ignored.
+
+Once running, you can view the application at [http://localhost:3000.](http://localhost:3000)
 
 # Development History
 
@@ -78,6 +158,7 @@ The last milestone was focused mainly on the aesthetics of the application. Mile
 # Links
 
 Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
+View Project on GitHub: [View Project on GitHub](https://github.com/simplydelish/simplydelish) <br>
 Project Board M1: [Project Board M1](https://github.com/simplydelish/simplydelish/projects/1) <br>
 Project Board M2: [Project Board M2](https://github.com/simplydelish/simplydelish/projects/2)
 
