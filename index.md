@@ -32,6 +32,31 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 
 This section will walk you through the steps to get the project running locally.
 
+#### Landing Page
+After deploying the Simply Delish application, users are welcomed with an abstract photo slider that greets the users with various photos of irresistible meals. The landing page also informs users what Simply Delish is all about, what we have to offer, and the goal of our company.
+![](images/landing.png)
+
+#### Top Picks
+Search the most popular meals of the day.  With a click of a button you can see the most favorable food items sorted by the votes of fellow users.
+![](images/top_picks2.png)
+
+#### Add Vendor
+Vendors are able to sign up and add more information about their establishment to help users know where they are and when they can have access to their delicious food.
+![](images/add_vendor2.png)
+
+#### User Profile
+Users can personalize their profile by providing information about themselves and are able to update their food preferences based on tags.
+![](images/user_profile2.png)
+
+#### Vendors
+Simply Delish also allows to scroll through all the vendors available on campus.
+![](images/vendors2.png)
+
+#### Vendor Homepage
+Vendors 
+![](images/vendor_homepage2.png)
+
+
 ## Installation
 
 [Install Meteor](https://www.meteor.com/install)
