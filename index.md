@@ -43,7 +43,7 @@ Search the most popular meals of the day.  With a click of a button, you can see
 ![](images/top_picks2.png)
 
 #### Vendors
-Simply Delish also allows users to scroll and search through all the vendors available on campus. This allows individuals to get a sneak peak while exploring each vendor by reading a short description of each establishment. Users may can easily view the vendors hours of opertaion.
+Simply Delish also allows users to scroll and search through all the vendors available on campus. This allows individuals to get a sneak peak, while exploring each vendor by reading a short description of each establishment. Users may also easily view the vendor's hours of opertaion.
 ![](images/vendors2.png)
 
 #### Add Vendor
@@ -51,7 +51,7 @@ Vendors are able to sign up and add more information about their establishment t
 ![](images/add_vendor2.png)
 
 #### Vendor Homepage
-Establishments are also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
+Establishments is also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
 ![](images/vendor_homepage2.png)
 
 
