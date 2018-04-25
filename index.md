@@ -28,34 +28,36 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 
 ![uhome](images/userhome2.png)
 
-# Developer Guide
-
-This section will walk you through the steps to get the project running locally.
+# User Guide
 
 #### Landing Page
 After deploying the Simply Delish application, users are welcomed with an abstract photo slider that greets the users with various photos of irresistible meals. The landing page also informs users what Simply Delish is all about, what we have to offer, and the goal of our company.
 ![](images/landing.png)
 
+#### User Profile
+Users can personalize their profile by providing information about themselves and are able to update their food preferences.
+![](images/user_profile2.png)
+
 #### Top Picks
-Search the most popular meals of the day.  With a click of a button you can see the most favorable food items sorted by the votes of fellow users.
+Search the most popular meals of the day.  With a click of a button, you can see the most favorable food items sorted by the votes of fellow users.
 ![](images/top_picks2.png)
+
+#### Vendors
+Simply Delish also allows users to scroll and search through all the vendors available on campus. This allows individuals to get a sneak peak while exploring each vendor by reading a short description of each establishment. Users may can easily view the vendors hours of opertaion.
+![](images/vendors2.png)
 
 #### Add Vendor
 Vendors are able to sign up and add more information about their establishment to help users know where they are and when they can have access to their delicious food.
 ![](images/add_vendor2.png)
 
-#### User Profile
-Users can personalize their profile by providing information about themselves and are able to update their food preferences based on tags.
-![](images/user_profile2.png)
-
-#### Vendors
-Simply Delish also allows to scroll through all the vendors available on campus.
-![](images/vendors2.png)
-
 #### Vendor Homepage
-Vendors 
+Establishments are also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
 ![](images/vendor_homepage2.png)
 
+
+# Developer Guide
+
+This section will walk you through the steps to get the project running locally.
 
 ## Installation
 
