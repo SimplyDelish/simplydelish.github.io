@@ -26,7 +26,7 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 ![uhome](images/home2.png)
 
 ## User Profile
-![profile](images/user_profile2.png)
+![profile](images/myprofile.png)
 
 ## Vendors 
 ![vendor](images/vendorsLatest.png)
@@ -50,7 +50,7 @@ After deploying the Simply Delish application, users are welcomed with an abstra
 
 #### User Profile
 Users can personalize their profile by providing information about themselves and are able to update their food preferences.
-![](images/user_profile2.png)
+![profile](images/myprofile.png)
 
 #### Top Picks
 Search the most popular meals of the day.  With a click of a button, you can see the most favorable food items sorted by the votes of fellow users.
@@ -208,7 +208,7 @@ The last milestone was focused mainly on the aesthetics of the application. Mile
 ![](images/addvendor.png)
 
 #### User Profile
-![](images/user_profile2.png)
+![profile](images/myprofile.png)
 
 #### Vendors
 ![](images/vendorsLatest.png)
