@@ -20,13 +20,27 @@ Our goal at Simply Delish is to create a tool for Manoa students that will ease 
 ![Home](images/home.gif)
 ![description](images/des.png)
 
-## Vendors 
-![vendor](images/vendors.png)
-
 ## User Home Page
-![userhome](images/userhome.png)
+![userhome](images/home1.png)
 
-![uhome](images/userhome2.png)
+![uhome](images/home2.png)
+
+## User Profile
+![profile](images/myprofile.png)
+
+## Vendors 
+![vendor](images/vendorsLatest.png)
+
+## Add Vendor
+![add](images/addvendor.png)
+
+## Top Picks
+![top](images/toppick.png)
+
+## Login, Register, & Sign Out
+![login](images/login.png)
+![register](images/register.png)
+![out](images/out.png)
 
 # User Guide
 
@@ -36,23 +50,24 @@ After deploying the Simply Delish application, users are welcomed with an abstra
 
 #### User Profile
 Users can personalize their profile by providing information about themselves and are able to update their food preferences.
-![](images/user_profile2.png)
+![profile](images/myprofile.png)
 
 #### Top Picks
 Search the most popular meals of the day.  With a click of a button, you can see the most favorable food items sorted by the votes of fellow users.
-![](images/top_picks2.png)
+![](images/toppick.png)
 
 #### Vendors
 Simply Delish also allows users to scroll and search through all the vendors available on campus. This allows individuals to get a sneak peak, while exploring each vendor by reading a short description of each establishment. Users may also easily view the vendor's hours of opertaion.
-![](images/vendors2.png)
+![](images/vendorsLatest.png)
 
 #### Add Vendor
 Vendors are able to sign up and add more information about their establishment to help users know where they are and when they can have access to their delicious food.
-![](images/add_vendor2.png)
+![](images/addvendor.png)
 
 #### Vendor Homepage
 Establishments is also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
-![](images/vendor_homepage2.png)
+![](images/vendorHome.png)
+![](images/vH2.png)
 
 
 # Developer Guide
@@ -181,6 +196,27 @@ The last milestone was focused mainly on the aesthetics of the application. Mile
 
 #### Vendor Homepage
 ![](images/vendor_homepage2.png)
+
+### Milestone 3 Screenshots
+
+#### Landing Page
+![](images/landing.png)
+
+#### Top Picks
+![](images/toppick.png)
+
+#### Add Vendor
+![](images/addvendor.png)
+
+#### User Profile
+![profile](images/myprofile.png)
+
+#### Vendors
+![](images/vendorsLatest.png)
+
+#### Vendor Homepage
+![](images/vendorHome.png)
+![](images/vH2.png)
 
 # Links
 
