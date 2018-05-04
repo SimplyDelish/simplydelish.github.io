@@ -66,7 +66,8 @@ Vendors are able to sign up and add more information about their establishment t
 
 #### Vendor Homepage
 Establishments is also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
-![](images/vendor_homepage2.png)
+![](images/vendorHome.png)
+![](images/vH2.png)
 
 
 # Developer Guide
@@ -214,8 +215,8 @@ The last milestone was focused mainly on the aesthetics of the application. Mile
 ![](images/vendorsLatest.png)
 
 #### Vendor Homepage
-![](images/vendor_homepage2.png)
-
+![](images/vendorHome.png)
+![](images/vH2.png)
 
 # Links
 
