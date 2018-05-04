@@ -224,7 +224,7 @@ Application: [Application](http://simplydelish.meteorapp.com/#/) <br>
 View Project on GitHub: [View Project on GitHub](https://github.com/simplydelish/simplydelish) <br>
 Project Board M1: [Project Board M1](https://github.com/simplydelish/simplydelish/projects/1) <br>
 Project Board M2: [Project Board M2](https://github.com/simplydelish/simplydelish/projects/2) <br>
-Project Board M3: [Project Board M2](https://github.com/simplydelish/simplydelish/projects/)
+Project Board M3: [Project Board M3](https://github.com/simplydelish/simplydelish/projects/3)
 
 # Meet the Team
 **Josefina Fortin**
