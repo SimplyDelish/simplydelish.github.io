@@ -58,7 +58,7 @@ Search the most popular meals of the day.  With a click of a button, you can see
 
 #### Vendors
 Simply Delish also allows users to scroll and search through all the vendors available on campus. This allows individuals to get a sneak peak, while exploring each vendor by reading a short description of each establishment. Users may also easily view the vendor's hours of opertaion.
-![](images/vendors2.png)
+![](images/vendorsLatest.png)
 
 #### Add Vendor
 Vendors are able to sign up and add more information about their establishment to help users know where they are and when they can have access to their delicious food.
