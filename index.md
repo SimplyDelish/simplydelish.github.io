@@ -62,7 +62,7 @@ Simply Delish also allows users to scroll and search through all the vendors ava
 
 #### Add Vendor
 Vendors are able to sign up and add more information about their establishment to help users know where they are and when they can have access to their delicious food.
-![](images/add_vendor2.png)
+![](images/addvendor.png)
 
 #### Vendor Homepage
 Establishments is also able to add and post up their food items of the day. There is also a menu of all the food items they created and is able to edit and delete them if they wanted to.
